@@ -1,0 +1,15 @@
+datasets
+evaluate
+transformers
+scikit-learn
+sentencepiece
+torch --index-url https://download.pytorch.org/whl/cu118
+protobuf
+accelerate
+jsonlines
+peft
+bitsandbytes
+einops
+wandb
+rouge-score
+nltk
